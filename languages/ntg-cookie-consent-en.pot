@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-31 00:38+0100\n"
+"PO-Revision-Date: 2018-10-31 00:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ntg-cookie-consent-admin.php:120
+msgid "Plugin settings"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:129
+msgid "Text in informative window (can be HTML)"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:142
+msgid "Text on Accept button"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:155
+msgid "Text on Learn more button"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:169
+msgid "ID of the more about cookies page"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:183
+msgid ""
+"Scripts in &lt;head&gt; tag, without code that executes those scripts, "
+"enclosed with &lt;script> and &lt;/script&gt; other HTML is optional <b>*</b>"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:195
+msgid ""
+"Code that executes scripts in &lt;head&gt; tag, without any HTML <b>ǂ</b>"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:207
+msgid ""
+"Footer scripts in &lt;body&gt; tag, without code that executes those "
+"scripts, other HTML optional"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:219
+msgid "Code that executes scripts in &lt;body&gt; tag, without any HTML"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:231
+msgid "Opt-out javascript code <b>§</b>"
+msgstr ""
+
+#: admin/class-ntg-cookie-consent-admin.php:243
+msgid ""
+"Custom javascript code, can be used for special effects like transitions "
+"&amp;"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:28
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:50
+#: admin/partials/ntg-cookie-consent-admin-display.php:54
+#: admin/partials/ntg-cookie-consent-admin-display.php:62
+#: admin/partials/ntg-cookie-consent-admin-display.php:66
+msgid "example"
+msgstr ""
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:71
+msgid "And you have to set transitions in your css, e.g."
+msgstr ""

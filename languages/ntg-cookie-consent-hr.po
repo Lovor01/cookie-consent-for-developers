@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie consent for developers 1.0\n"
+"POT-Creation-Date: 2018-10-28 10:28+0100\n"
+"PO-Revision-Date: 2018-10-28 10:29+0100\n"
+"Last-Translator: \n"
+"Language-Team: Lovro Hrust\n"
+"Language: hr_HR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ntg-cookie-consent-admin.php:120
+msgid "Plugin settings"
+msgstr "Postavke plugina"
+
+#: admin/class-ntg-cookie-consent-admin.php:129
+msgid "Text in informative window (can be HTML)"
+msgstr "Tekst u informativnom prozoru (može biti HTML)"
+
+#: admin/class-ntg-cookie-consent-admin.php:142
+msgid "Text on Accept button"
+msgstr "Tekst na gumbu Prihvati"
+
+#: admin/class-ntg-cookie-consent-admin.php:155
+msgid "Text on Learn more button"
+msgstr "Tekst na gumbu Saznaj više"
+
+#: admin/class-ntg-cookie-consent-admin.php:169
+msgid "ID of the more about cookies page"
+msgstr "ID stranice više o kolačićima"
+
+#: admin/class-ntg-cookie-consent-admin.php:183
+msgid ""
+"Scripts in &lt;head&gt; tag, without code that executes those scripts, "
+"enclosed with &lt;script> and &lt;/script&gt; other HTML is optional <b>*</b>"
+msgstr ""
+"Izvršni dio skripte u &lt;head&gt; tagu, bez koda koji izvršava te skripte, "
+"zatvoren &lt;script&gt; i &lt;/script&gt; , drugi HTML kod je opcionalan "
+"<b>*</b>"
+
+#: admin/class-ntg-cookie-consent-admin.php:195
+msgid ""
+"Code that executes scripts in &lt;head&gt; tag, without any HTML <b>ǂ</b>"
+msgstr "Kod koji izvršava skripte u &lt;head&gt; tagu, bez HTML koda ǂ"
+
+#: admin/class-ntg-cookie-consent-admin.php:207
+msgid ""
+"Footer scripts in &lt;body&gt; tag, without code that executes those "
+"scripts, other HTML optional"
+msgstr ""
+"Kod u footeru u &lt;body&gt; tagu, bez izvršnog dijela koji ga pokreće, "
+"uključujući opcionalni HTML"
+
+#: admin/class-ntg-cookie-consent-admin.php:219
+msgid "Code that executes scripts in &lt;body&gt; tag, without any HTML"
+msgstr "Kod koji izvršava skripte u &lt;body&gt; tagu, bez HTML-a"
+
+#: admin/class-ntg-cookie-consent-admin.php:231
+msgid "Opt-out javascript code <b>§</b>"
+msgstr "Opt-out javascript kod <b>§</b>"
+
+#: admin/class-ntg-cookie-consent-admin.php:243
+msgid ""
+"Custom javascript code, can be used for special effects like transitions "
+"&amp;"
+msgstr ""
+"Prilagođeni javascript kod, može se koristiti za posebne efekte kao "
+"tranzicije &amp;"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:28
+msgid "Settings Saved"
+msgstr "Postavke su snimljene"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:50
+#: admin/partials/ntg-cookie-consent-admin-display.php:54
+#: admin/partials/ntg-cookie-consent-admin-display.php:62
+#: admin/partials/ntg-cookie-consent-admin-display.php:66
+msgid "example"
+msgstr "primjer"
+
+#: admin/partials/ntg-cookie-consent-admin-display.php:71
+msgid "And you have to set transitions in your css, e.g."
+msgstr "i treba postaviti tranzicije u css-u, npr."
